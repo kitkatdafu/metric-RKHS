@@ -1,6 +1,6 @@
 from typing import List
 
-import cupy as cp
+import numpy as cp
 from tqdm import tqdm
 
 
